@@ -4,7 +4,7 @@
 
 - Use **\i setup.sql** to create and insert data into tables
 
-**Note:** You can create tables using create_tables.sql and insert data using insert_data.sql or individually using the data_tablename files.
+**Note:** Alternatively, you can create tables using create_tables.sql and insert data using insert_data.sql or individually using the data_tablename files.
 
 ## QUERIES
 
